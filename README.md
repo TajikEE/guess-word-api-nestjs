@@ -1,6 +1,6 @@
 ## Description
 
-Checkout the swagger docs for api and rules of the game
+Checkout the swagger docs for api and rules of the game on 'http://localhost:3000/docs/'
 
 ## Installation
 
